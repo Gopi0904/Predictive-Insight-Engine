@@ -239,7 +239,7 @@ This project demonstrates the complete implementation of supervised learning tec
 
 ## 👨‍💻 Author
 
-**Student Name:** Your Name
+**Student Name:** Gopi Gadara
 
 **Course:** Supervised Learning Module
 
